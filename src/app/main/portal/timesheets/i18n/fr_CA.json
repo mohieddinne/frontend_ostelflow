@@ -1,0 +1,30 @@
+{
+  "status": {
+    "name": "Statut",
+    "status_1": "Nettoyée",
+    "status_2": "A vérifier",
+    "status_3": "A néttoyer",
+    "status_4": "Défaut",
+    "dnd": "Do not disturb"
+  },
+  "validation": {
+    "are_you_sure_you_want_to_delete_the__maintain_task": "Etes-vous sûr de vouloir supprimer la tache",
+    "are_you_sure_you_want_to_delete_the_maintain_task_desc": "En supprimant la chambre, vous ne pouvez plus revenir en arrière. Toutes ses données seront supprimé à jamais."
+  },
+  "success": {
+    "favorite": "Changement de l'état du favorit effectué avec succès",
+    "create": "La chambre est crée avec succès",
+    "edit": "La chambre est modifié avec succès",
+    "delete": "La chambre est supprimé avec succès"
+  },
+  "timesheet_list": "Liste des taches",
+  "search": "Chercher",
+  "options": "Options",
+  "unspecified": "Non spécifié",
+  "firstName": "Prénom",
+  "lastName": "Nom",
+  "startedOn": "Date de début",
+  "endedOn": "Date de fin",
+  "statut": "Statut",
+  "number": "N° Chambre"
+}

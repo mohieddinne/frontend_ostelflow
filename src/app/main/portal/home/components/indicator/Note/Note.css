@@ -1,0 +1,16 @@
+.noteWrapper {
+  font-family: "Open Sans";
+  padding: 1rem;
+  background-color: white;
+  border-radius: 12px;
+}
+.noteTitle {
+  font-weight: bold;
+  font-size: 16px;
+  color: #777d8a;
+  padding-bottom: 0.5rem;
+}
+.notePara {
+  font-size: 14px;
+  color: #6b7280;
+}

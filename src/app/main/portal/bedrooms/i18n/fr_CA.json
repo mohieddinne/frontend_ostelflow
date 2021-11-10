@@ -1,0 +1,54 @@
+{
+  "new": "Nouveau",
+  "edit": "Modifier",
+  "room": "Chambre",
+  "cancel": "Annuler",
+  "i_confirm": "Confirmer",
+  "room_plural": "Chambres",
+  "room_list": "Liste des chambres",
+  "new_room": "Nouveau chambre",
+  "delete_the_room": "Supprimer la chambre",
+  "you_are_deleting_room": "Vous allez supprimer la chambre",
+  "you_are_deleting_room_Ques": "Etes-vous sur de vouloir supprimer La chambre ?     ce groupe contient ",
+  "you_are_deleting_room_desc": "Tous les clients qui l’appartiennent seront marqué comme Groupe : Aucun par la suite. Cette action a des conséquences sur plusieurs modules tels qu’Indicateurs de performance.",
+  "customer": "clients",
+  "client_count": "Nombre de succursales",
+  "roomId": "#",
+  "number": "Numéro",
+  "floor": "Etage",
+  "type": "Type",
+  "start_reservation": "Départ de  la réservation",
+  "end_reservation": "Fin de  la réservation",
+  "occupants": "Occupants",
+  "attendance": "Présence",
+  "status": {
+    "name": "Status actuel",
+    "status_1": "Nettoyée",
+    "status_2": "A vérifier",
+    "status_3": "A néttoyer",
+    "status_4": "Défaut",
+    "dnd": "Do not disturb"
+  },
+  "options": "Options",
+  "unspecified": "Non spécifié",
+  "error": {
+    "favorite": "Erreur lors du changement du status favorit",
+    "create": "Erreur lors de la création du chambre",
+    "edit": "Erreur lors de la modificaton du chambre",
+    "only_number": "ne doit pas  inclure des lettres",
+    "field_required": "ce champ est obligatoire",
+    "delete": "Erreur lors de la suppression  du chambre"
+  },
+  "validation": {
+    "are_you_sure_you_want_to_delete_the_room": "Etes-vous sûr de vouloir supprimer la chambre",
+    "are_you_sure_you_want_to_delete_the_room_desc": "En supprimant la chambre, vous ne pouvez plus revenir en arrière. Toutes ses données seront supprimé à jamais."
+  },
+  "success": {
+    "favorite": "Changement de l'état du favorit effectué avec succès",
+    "create": "La chambre est crée avec succès",
+    "edit": "La chambre est modifié avec succès",
+    "delete": "La chambre est supprimé avec succès",
+    "toggle_dnd": "Chambre affectée comme dnd"
+  },
+  "favorite": "Favoris"
+}

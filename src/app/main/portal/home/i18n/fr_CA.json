@@ -1,0 +1,52 @@
+{
+  "home": "Acceuil",
+  "hello": "Bonjour",
+  "room": "Chambre",
+  "return_later": "Revenir plus tard",
+  "see_more": "Plus des details",
+  "pause": "Je suis en pause",
+  "end_of_the_day": "Fin de la journée",
+  "today_tasks": "Mes tâches d’aujourd’hui",
+  "priority": "Urgente",
+  "revenirPlusTard": "a marqué la chambre {{number}} en attente ",
+  "cleanedRoom": "a terminé la chambre {{number}} ",
+  "toggleDnd": "a marqué la chambre {{number}} comme DnD ",
+  "notConnected": "Non connecté",
+  "inActivity": "En activité",
+  "satut_pause": "En pause",
+  "room_details": "Details de chambre",
+
+  "status": {
+    "name": "Status actuel",
+    "status1": "Ouvert",
+    "status2": "In progress",
+    "status3": "attribué",
+    "status4": "En attente",
+    "status5": "Terminé"
+  },
+  "in_charge": "S’en charger",
+
+  "error": {
+    "timesheet-active": "vous avez déjà une feuille de temps active",
+    "toggle_dnd": "Erreur dans le changement de statut de Chambre",
+    "assign": "Erreur lors de l'affectaion de tâche",
+    "break": "Vous avez déjà atteint la limite de pause possible",
+    "maintain_task": "Vous n'avez pas specifier la probleme"
+  },
+  "success": {
+    "assign": "La tâche a été effectué avec succès",
+    "favorite": "Changement de l'état du favorit effectué avec succès",
+    "toggle_dnd": "Chambre DND",
+    "break": "Vous êtes en pause maintenant",
+    "maintain_task": "La tâche de maintenance a été créée avec succès"
+  },
+  "are_you_sure_you_want_to_assign_room_as_dnd": "Etes-vous sûr de vouloir affecter la chambre comme DND",
+  "are_you_sure_you_want_to_assign_room_as_dnd_desc": "La chambre sera éliminé de la liste lors de changement de statut en DND",
+  "are_you_sure_you_want_to_assign_room_as_cleaned": "Etes-vous sûr de vouloir changer la statut de chambre en Nettoyée",
+  "are_you_sure_you_want_to_end_the_Task": "Etes-vous sûr de vouloir terminer la tache",
+
+  "are_you_sure_you_want_to_assign_room_as_cleaned_desc": "La chambre sera éliminé de la liste des chambre précédente",
+  "are_you_sure_you_want_to_assign_task_as_ended": "Etes-vous sûr de vouloir terminer la tâche",
+
+  "are_you_sure_you_want_to_assign_task_as_ended_desc": "La tâche sera éliminé de la liste des tâches précédente"
+}

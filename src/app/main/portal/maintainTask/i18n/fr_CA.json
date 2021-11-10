@@ -1,0 +1,44 @@
+{
+  "new": "Nouveau",
+  "edit": "Modifier",
+  "problem": "Problème",
+  "cancel": "Annuler",
+  "i_confirm": "Confirmer",
+  "room_plural": "Chambres",
+  "maintain_tasks_list": "Liste des tâches  de maintenances ",
+  "assigned_to": "Assigné à",
+  "number": "Numéro de chambre",
+  "description": "Description",
+  "maintain_task_edit": "Modifier la tâche de maintenance",
+  "delete_the_task": "Supprimer la tâche de maintenance",
+
+  "problemType": {
+    "name": "Status actuel",
+    "problem1": "Problème avec le meuble",
+    "problem2": "Problème avec les toilettes",
+    "problem3": "Problème avec l’éclairage",
+    "problem4": "Problème avec la Télévision"
+  },
+  "options": "Options",
+  "unspecified": "Non spécifié",
+  "error": {
+    "favorite": "Erreur lors du changement du status favorit",
+    "create": "Erreur lors de la création du tache",
+    "edit": "Erreur lors de la modificaton du tache",
+    "only_number": "ne doit pas  inclure des lettres",
+    "field_required": "ce champ est obligatoire",
+    "delete": "Erreur lors de la suppression  du tache"
+  },
+  "validation": {
+    "are_you_sure_you_want_to_delete_the_maintain_task": "Etes-vous sûr de vouloir supprimer la tache",
+    "are_you_sure_you_want_to_delete_the_maintain_task_desc": "En supprimant la chambre, vous ne pouvez plus revenir en arrière. Toutes ses données seront supprimé à jamais."
+  },
+
+  "success": {
+    "favorite": "Changement de l'état du favorit effectué avec succès",
+    "create": "La tache est crée avec succès",
+    "edit": "La tache est modifié avec succès",
+    "delete": "La tache est supprimé avec succès"
+  },
+  "favorite": "Favoris"
+}

@@ -1,0 +1,67 @@
+.HorizantalCardWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 12px;
+  border: 0.3rem solid #374151;
+  color: white;
+  overflow: hidden;
+}
+.CardLeft {
+  font-family: "Open Sans";
+  font-weight: normal;
+  font-size: 12px;
+  text-align: center;
+  padding: 1rem;
+}
+.CardRight {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #374151;
+  text-align: center;
+  padding: 1rem;
+  height: 100%;
+  border: 12px;
+  border-color: #374151;
+}
+.CardLeftTop {
+  font-family: "Open Sans";
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: left;
+  color: #374151;
+}
+.CardLeftBottom {
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 12px;
+  text-align: left;
+  color: #9ca3af;
+}
+.CardRightTop {
+  font-family: "Open Sans";
+  font-weight: bold;
+  font-size: 31px;
+  line-height: 30px;
+
+  text-align: center;
+  color: #fff;
+}
+.CardRightBottom {
+  font-family: "Open Sans";
+  font-weight: normal;
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+}
+@media (min-width: 1024px) {
+  .CardLeftTop {
+    font-size: 20px;
+    width: 75%;
+  }
+  .CardLeftBottom {
+    font-size: 16px;
+  }
+}

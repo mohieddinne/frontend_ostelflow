@@ -1,0 +1,116 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="40"
+  height="40"
+  viewBox="0 0 40 40"
+>
+  <g id="Shawer-btn" transform="translate(0 0.156)">
+    <g
+      id="Rectangle_1055"
+      data-name="Rectangle 1055"
+      transform="translate(0 -0.156)"
+      stroke="#374151"
+      stroke-width="2"
+    >
+      <rect width="40" height="40" rx="10" stroke="none" />
+      <rect x="1" y="1" width="38" height="38" rx="9" fill="none" />
+    </g>
+    <g id="shower" transform="translate(10 8)">
+      <path
+        id="Tracé_78"
+        data-name="Tracé 78"
+        d="M54.548,0a6.507,6.507,0,0,0-6.484,6.07A7.019,7.019,0,0,0,42.341,11H55.756a7.019,7.019,0,0,0-5.687-4.924,4.5,4.5,0,0,1,8.979.424V24h2V6.5a6.507,6.507,0,0,0-6.5-6.5Z"
+        transform="translate(-41.048)"
+        fill="#374151"
+      />
+      <path
+        id="Tracé_79"
+        data-name="Tracé 79"
+        d="M32,96H48v2H32Z"
+        transform="translate(-32 -84)"
+        fill="#374151"
+      />
+      <circle
+        id="Ellipse_4"
+        data-name="Ellipse 4"
+        cx="1"
+        cy="1"
+        r="1"
+        transform="translate(7 20.844)"
+        fill="#374151"
+      />
+      <circle
+        id="Ellipse_5"
+        data-name="Ellipse 5"
+        cx="1"
+        cy="1"
+        r="1"
+        transform="translate(7 17.844)"
+        fill="#374151"
+      />
+      <circle
+        id="Ellipse_6"
+        data-name="Ellipse 6"
+        cx="1"
+        cy="1"
+        r="1"
+        transform="translate(11 20.844)"
+        fill="#374151"
+      />
+      <circle
+        id="Ellipse_7"
+        data-name="Ellipse 7"
+        cx="1"
+        cy="1"
+        r="1"
+        transform="translate(11 17.844)"
+        fill="#374151"
+      />
+      <circle
+        id="Ellipse_8"
+        data-name="Ellipse 8"
+        cx="1"
+        cy="1"
+        r="1"
+        transform="translate(3 20.844)"
+        fill="#374151"
+      />
+      <circle
+        id="Ellipse_9"
+        data-name="Ellipse 9"
+        cx="1"
+        cy="1"
+        r="1"
+        transform="translate(3 17.844)"
+        fill="#374151"
+      />
+      <circle
+        id="Ellipse_10"
+        data-name="Ellipse 10"
+        cx="1"
+        cy="1"
+        r="1"
+        transform="translate(7 14.844)"
+        fill="#374151"
+      />
+      <circle
+        id="Ellipse_11"
+        data-name="Ellipse 11"
+        cx="1"
+        cy="1"
+        r="1"
+        transform="translate(11 14.844)"
+        fill="#374151"
+      />
+      <circle
+        id="Ellipse_12"
+        data-name="Ellipse 12"
+        cx="1"
+        cy="1"
+        r="1"
+        transform="translate(3 14.844)"
+        fill="#374151"
+      />
+    </g>
+  </g>
+</svg>
